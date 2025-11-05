@@ -1,7 +1,7 @@
-## 👋 Hi, I’m Artyom.
-**💻 Software Developer | Code Enthusaist | 🎓 BSc. in Computer Science**
+## Hi, I’m Artyom.
+** Software Developer | Code Enthusaist | 🎓 BSc. in Computer Science**
 
-#### 🚀 Tech Stack
+#### Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=dotnet&logoColor=white)
@@ -24,6 +24,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white)
 
-📬 Contact me on [LinkedIn](https://www.linkedin.com/in/artium-adam-ba352b31a/) <br />
-⚡ Fun Fact: My cat keeps trying to talk to AI.
+Contact me on [LinkedIn](https://www.linkedin.com/in/artium-adam-ba352b31a/) <br />
+Fun Fact: My cat keeps trying to talk to AI.
 
