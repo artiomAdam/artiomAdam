@@ -25,6 +25,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white)
 
-📬 Contact me on [LinkedIn](https://www.linkedin.com/in/artium-adam-ba352b31a/)
+📬 Contact me on [LinkedIn](https://www.linkedin.com/in/artium-adam-ba352b31a/)</ br>
 ⚡ Fun Fact: My cat keeps trying to talk to AI.
 
