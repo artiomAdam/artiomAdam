@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Artium.
+## 👋 Hi, I’m Artyom.
 **💻 Software Developer | Code Enthusaist | 🎓 BSc. in Computer Science**
 
 #### 🚀 Tech Stack
