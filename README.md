@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Artyom.
-**💻 Software Developer | Code Enthusaist | 🎓 BSc. in Computer Science**
+**💻 Software Developer | Code Enthusaist | 🎓 B.Sc in Computer Science**
 
 #### 🚀 Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=java&logoColor=white)
